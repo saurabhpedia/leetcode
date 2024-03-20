@@ -45,4 +45,4 @@ function canPlaceFlowers(fb, n) {
 };
 
 
-console.log(canPlaceFlowers(fb, n))
+console.log(canPlaceFlowers(fb, n));
