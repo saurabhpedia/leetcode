@@ -1,4 +1,3 @@
-Certainly! Here's the technical documentation of the solution in Markdown format:
 
 # Reverse Vowels in a String - Technical Documentation
 
@@ -45,4 +44,3 @@ Output:
 - Time Complexity: O(n), where n is the length of the input string `s`. The function iterates through the string once to reverse the vowels.
 - Space Complexity: O(n), where n is the length of the input string `s`. The function creates an array of individual characters, which requires additional space.
 
-This technical documentation provides an overview of the solution's functionality, input-output format, algorithm, and complexity analysis. It serves as a reference for understanding and using the `reverseVowels` function to reverse vowels in a string.
